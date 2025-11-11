@@ -5,7 +5,7 @@ description = "Персональний помічник: контакти + н�
 requires-python = ">=3.10"
 
 authors = [
-  {name = "Nazar Marchuk", email = "nazar@example.com"},
+  {name = "Nazar Marchuk", email = "nazar03uk@gmail.com"},
   {name = "Oksana Melchenko", email = "oksankajk@gmail.com"},
   {name = "Svjatoslav Cherednikov@gmail.com", email = "svjatoslav.cherednikov@gmail.com"},
   {name = "Vikram Ahluwalia", email = "dr.vikram.ahluwalia@gmail.com"},
