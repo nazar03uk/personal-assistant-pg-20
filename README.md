@@ -119,7 +119,7 @@ assistant
 
 | Ім’я | Email |
 |-----|-------|
-| **Nazar Marchuk** | nazar@example.com |
+| **Nazar Marchuk** | nazar03uk@gmail.com |
 | **Oksana Melchenko** | oksankajk@gmail.com |
 | **Svjatoslav Cherednikov** | svjatoslav.cherednikov@gmail.com |
 | **Vikram Ahluwalia** | dr.vikram.ahluwalia@gmail.com |
