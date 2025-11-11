@@ -62,8 +62,8 @@ project/
 
 1. Клонування репозиторію:
 ```bash
-git clone <URL_ВАШОГО_РЕПО>
-cd <ім’я_папки>
+git clone https://github.com/nazar03uk/personal-helper-pg-20.git
+cd personal-helper-pg-20
 ```
 
 2. Встановлення в режимі розробки:
