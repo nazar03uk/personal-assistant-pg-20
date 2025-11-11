@@ -115,11 +115,14 @@ project/
 
 ---
 
-## 👨‍💻 Працювали над проектом
-**nazar03uk@gmail.com**
-**riabichenko@protonmail.com**
-**oksankajk@gmail.com**
-**dr.vikram.ahluwalia@gmail.com**
-**svjatoslav.cherednikov@gmail.com**
+## 👨‍💻 Команда розробників
+
+| Ім’я | Email |
+|-----|-------|
+| **Nazar Marchuk** | nazar@example.com |
+| **Oksana Melchenko** | oksankajk@gmail.com |
+| **Svjatoslav Cherednikov** | svjatoslav.cherednikov@gmail.com |
+| **Vikram Ahluwalia** | dr.vikram.ahluwalia@gmail.com |
+| **Dmytro Riabichenko** | riabichenko@protonmail.com |
 
 Слава Україні 💛💙
