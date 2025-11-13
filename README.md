@@ -43,7 +43,7 @@
 project/
 ├─ src/
 │ ├─ personal_assistant/
-│ │ ├─ init.py
+│ │ ├─ __init__.py
 │ │ ├─ addressbook.py # Класи Field, Record, AddressBook
 │ │ ├─ notes.py # Класи Note та NotesBook
 │ │ ├─ storage.py # Збереження/відновлення даних (pickle + міграція)
