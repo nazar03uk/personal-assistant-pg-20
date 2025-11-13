@@ -48,6 +48,7 @@ project/
 │ │ ├─ notes.py # Класи Note та NotesBook
 │ │ ├─ storage.py # Збереження/відновлення даних (pickle + міграція)
 │ │ ├─ command_handler.py # Обробка логіки CLI-команд
+│ │ ├─ validator.py # Валідація, форматування, модуль для command_handler
 │ │ └─ main.py # Основний CLI-інтерфейс (точка входу)
 │
 ├─ README.md # Опис проєкту та інструкції
